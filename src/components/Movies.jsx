@@ -14,7 +14,7 @@ class Movies extends Component {
           this.props.movies.map((movie, index) => (
             <Row key={index} className="show-grid sep">
               <Col md={4} className="poster">
-                <img src={movie.poster} height="200" width="200" />
+                <img src={movie.poster} alt="poster" height="200" width="200" />
               </Col>
               <Col md={8}>
                 Director: {movie.director}<br />
