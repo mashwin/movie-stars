@@ -1,0 +1,1 @@
+Search for movies staring a certain actor. For example enter "Tom Cruise" and hit enter. It will display movies staring the actor.
